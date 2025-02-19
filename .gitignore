@@ -1,8 +1,5 @@
-__pycache__/*
+__pycache__/
 venv/
 db.sqlite3
-
-# Django
-*/migrations/*.py
-*/migrations/*.pyc
 .env
+*/migrations/
